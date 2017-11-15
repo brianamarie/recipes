@@ -352,16 +352,7 @@ main {
     width: 150px;
     }
 
-.img-wrapper:before {
-	content: " ";
-	display: block;
-	position: absolute;
-	top: 0;
-	right: 0;
-	border: solid 75px;
-	border-color: transparent transparent #b3002d #b3002d;
-	box-shadow: 3px 2px 2px rgba(0,0,0,0.4);
-    }
+
 
 main .img-wrapper {
 	display: none;
