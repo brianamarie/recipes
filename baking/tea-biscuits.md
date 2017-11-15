@@ -5,7 +5,7 @@ author: Debbie
 source: http://allrecipes.com/recipe/6740/tea-biscuits/
 image: https://brianamarie.github.io/recipes/images/biscuits.jpg
 ---
-# Tea Biscuits
+![](https://brianamarie.github.io/recipes/images/biscuits.jpg)
 
 ## Ingredients:
 - 2 cups (16 oz) all-purpose flour
