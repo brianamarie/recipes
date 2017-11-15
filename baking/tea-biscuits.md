@@ -3,7 +3,7 @@ title: Tea Biscuits
 size: 12 biscuits
 author: Debbie
 source: http://allrecipes.com/recipe/6740/tea-biscuits/
-img: /images/biscuits.jpg
+image: /images/biscuits.jpg
 ---
 # Tea Biscuits
 
