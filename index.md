@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Christmas Recipes
+title: Recipes
 home: true
 ---
