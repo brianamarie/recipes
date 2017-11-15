@@ -326,7 +326,7 @@ main {
 	margin-top: 1em;
 	border-top: 2px dotted #fff;
 	padding-top: 0.5em;
-	padding-bottom: 1em;
+	padding-bottom: 0.5em;
 	background-color: rgba(255,255,255,0.4);
     clear: both;
     text-align: center;
@@ -458,7 +458,7 @@ main .img-wrapper {
 
     @media (min-width: 40em) {
     .nav-primary li:first-child a {
-        padding-top: 2em;
+        padding-top: 0.5em;
 
         }
     }
