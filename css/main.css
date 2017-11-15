@@ -1,10 +1,5 @@
 @font-face {
-    font-family: 'mountains_of_christmasregular';
-    src: url('MountainsofChristmas-webfont.eot');
-    src: url('MountainsofChristmas-webfont.eot?#iefix') format('embedded-opentype'),
-         url('MountainsofChristmas-webfont.woff') format('woff'),
-         url('MountainsofChristmas-webfont.ttf') format('truetype'),
-         url('MountainsofChristmas-webfont.svg#mountains_of_christmasregular') format('svg');
+    font-family: 'Helvetica';
     font-weight: normal;
     font-style: normal;
     }
@@ -83,7 +78,7 @@ section article > h1 {
 	margin: 1.1429em 0 0.3810em; /* 24px 0 8px */
    -webkit-font-smoothing: antialiased;
     }
-    
+
 h4 {
 	color: #444;
 	font-weight: 400;
@@ -92,7 +87,7 @@ h4 {
 	margin: 1.3334em 0 0.4444em; /* 24px 0 8px */
    -webkit-font-smoothing: antialiased;
     }
-    
+
 h5 {
 	color: #555;
 	font-weight: 700;
@@ -101,7 +96,7 @@ h5 {
 	margin: 1.5em 0 0.5em; /* 24px 0 8px */
    -webkit-font-smoothing: antialiased;
     }
-    
+
 h6 {
 	color: #666;
 	font-weight: 700;
@@ -123,7 +118,7 @@ ol {
 	list-style-type: decimal;
 	padding: 0;
     }
-    
+
 ul {
 	list-style-type: square;
 	padding: 0;
@@ -142,7 +137,7 @@ dt {
 dd, li {
 	margin-left: 1.5em; /* 24px */
 	}
-	
+
 dd > *, li > * {
 	margin-top: 0;
     }
@@ -228,13 +223,13 @@ sup {
 	vertical-align: super;
     }
 
-mark, 
+mark,
 ins {
 	background-color: #fff9d9;
 	line-height: 90%;
 	padding: 0 0.125em; /* 0 2px */
 	}
-	
+
 ins {
 	background-color: #e9e9e9;
     }
@@ -259,39 +254,39 @@ nav ul {
     }
 
 @media print {
-	
+
 	@page {
 		margin: 0.5cm;
 	    }
-	
+
 	* {
 		background: transparent !important;
 		color: #000 !important;
 		text-shadow: none !important;
 		box-shadow: none;
 	    }
-	
+
 	p, h1, h2, h3 {
 		orphans: 3;
 		widows: 3;
 	    }
-	
+
 	h1, h2, h3, h4 {
 		page-break-after: avoid;
 	    }
-	
+
 	blockquote {
 		border-left: 4px solid #ccc;
 		padding: 0 1em;
 		page-break-inside: avoid;
 	    }
-	
+
 	a, a:visited {
 		color: #000 !important;
 		border-bottom: 1px dotted #999;
 		padding-left: 0 !important;
 	    }
-	
+
 	img {
 		page-break-inside: avoid;
 	    }
@@ -326,7 +321,7 @@ main {
     }
 
 
-    
+
 .global-footer {
 	margin-top: 1em;
 	border-top: 2px dotted #fff;
@@ -336,7 +331,7 @@ main {
     clear: both;
     text-align: center;
     }
-    
+
     @media (min-width:40em) {
     .global-footer {
         padding-right: 200px;
@@ -371,7 +366,7 @@ main {
 main .img-wrapper {
 	display: none;
     }
-    
+
     @media (min-width: 40em) {
     main .img-wrapper {
     	display: block;
@@ -400,7 +395,7 @@ main .img-wrapper {
     	float: left;
     	width: 32%;
         }
-    
+
     .grid li:nth-child(3n+3) {
     	margin-right: 0;
         }
@@ -437,7 +432,7 @@ main .img-wrapper {
 .grid li a:active h2 {
 	color: #444;
     }
-    
+
 
 .nav-primary {
 	float: left;
@@ -453,7 +448,7 @@ main .img-wrapper {
 	overflow: hidden;
 	box-shadow: 0px 0px 2px rgba(0,0,0,0.1);
     }
-    
+
     @media (min-width: 40em) {
     .nav-primary {
         width: 30%;
@@ -464,7 +459,7 @@ main .img-wrapper {
 	position: relative;
 	margin: 0;
     }
-    
+
     .nav-primary li:first-child a {
         border-left: 50px solid #eee;
         padding-left: 4%;
@@ -473,7 +468,7 @@ main .img-wrapper {
     @media (min-width: 40em) {
     .nav-primary li:first-child a {
         padding-top: 2em;
-        
+
         }
     }
 
@@ -485,8 +480,8 @@ main .img-wrapper {
 
 .nav-primary li .img-wrapper {
 	left: 0;
-	
-	
+
+
     }
 
 .nav-primary .img-wrapper img {
@@ -524,7 +519,7 @@ main .img-wrapper {
 	background-color: #6F1E1E;
 	color: #fff;
     }
-   
+
 .nav-primary li a:active,
 .nav-primary .active,
 .nav-primary .active:active {
