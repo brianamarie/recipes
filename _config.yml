@@ -1,4 +1,4 @@
-name: Christmas Recipes
+name: Recipes
 markdown: redcarpet
 pygments: true
-baseurl: /christmas-recipes
+baseurl: /recipes
