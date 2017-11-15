@@ -404,7 +404,7 @@ main .img-wrapper {
 
 .grid li h2 {
 	margin-right: 85px;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	margin-top: 0.5em;
     }
 
@@ -439,7 +439,7 @@ main .img-wrapper {
 	margin: 0;
 	padding: 0;
 	font-family: 'mountains_of_christmasregular';
-	font-size: 1.5em;
+	font-size: 1em;
 	position: relative;
 	display: block;
 	width: 100%;
