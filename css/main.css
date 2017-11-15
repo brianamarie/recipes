@@ -47,7 +47,7 @@ h2 {
 
 h1 {
 	font-weight: 700;
-	font-size: 3.5em;
+	font-size: 2.5em;
 	line-height: 1;
 	letter-spacing: -0.03125em;
 	margin: 0.5em 0 1em;
@@ -59,7 +59,7 @@ article > h1,
 section > h1,
 nav > h1 {
 	font-weight: 700;
-	font-size: 2em;
+	font-size: 1.5em;
 	line-height: 1;
 	margin: 1.3334em 0 0.3334em;
    -webkit-font-smoothing: antialiased;
