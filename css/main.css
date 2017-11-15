@@ -245,7 +245,7 @@ img {
     }
 
 nav {
-	padding: 2em 4% 3em;
+	padding: 1em 4% 1em;
     }
 
 nav ul {
@@ -294,7 +294,7 @@ nav ul {
 
 
 main {
-	padding: 2em 4% 2em;
+	padding: 1em 4% 1em;
 	float: left;
 	width: 100%;
 	margin-bottom: 0;
@@ -326,7 +326,7 @@ main {
 	margin-top: 1em;
 	border-top: 2px dotted #fff;
 	padding-top: 0.5em;
-	padding-bottom: 2.5em;
+	padding-bottom: 1em;
 	background-color: rgba(255,255,255,0.4);
     clear: both;
     text-align: center;
@@ -421,7 +421,7 @@ main .img-wrapper {
 
 .grid li a {
 	display: block;
-	padding: 0.5em 2em;
+	padding: 0.5em 0.5em;
 	border-bottom: none;
 	color: #b3002d;
 	height: 150px;
