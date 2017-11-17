@@ -3,7 +3,7 @@ title: Grandma Gladys' Cranberry Salad
 size: Not sure
 author: Grandma Gladys
 source: Family Recipe
-img: TBA
+img: https://github.com/brianamarie/recipes/blob/master/images/GrandmaGladyscranberrysalad.jpeg?raw=true
 ---
 # Cranberry Salad
 
