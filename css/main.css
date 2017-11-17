@@ -309,17 +309,10 @@ main {
     }
 
 .container {
-    background: url("snow.png") #E5EAEE;
+    background-color: #990000;
     width: 100%;
     float: left;
     }
-
-    @media (min-width:40em) {
-    .container {
-        background: url("snow.png") #E5EAEE fixed;
-        }
-    }
-
 
 
 .global-footer {
@@ -350,6 +343,7 @@ main {
     display: block;
     height: 150px;
     width: 150px;
+    object-fit: cover;
     }
 
 
@@ -540,43 +534,3 @@ main .img-wrapper {
     margin-top: 1.5em;
     font-weight: bold;
 }
-
-@media (min-width:1em) {
-.snow-layer {
-	background: url(snow-layer.png) top center transparent repeat-x;
-	z-index: 1;
-	height: 20px;
-	width: 100%;
-	position: fixed;
-	bottom: 0;
-	display: block;
-	background-size: auto 20px;
-    }
-    }
-
-    @media (min-width:40em) {
-    .snowman {
-        background: url(snowman.png) top right transparent no-repeat;
-        height: 110px;
-        width: 100px;
-        position: fixed;
-        bottom: 0;
-        right: 2%;
-        z-index: 3;
-        display: block;
-        background-size: 80px;
-        }
-    }
-
-    @media (min-width:1em) {
-    .snow-icicles {
-    	background: url(snow-icicles.png) bottom center transparent repeat-x;
-    	z-index: 1;
-    	height: 30px;
-    	width: 100%;
-    	position: fixed;
-    	top: 0;
-    	display: block;
-    	background-size: auto 30px;
-        }
-    }
