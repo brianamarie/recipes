@@ -1,4 +1,5 @@
 name: Recipes
 markdown: redcarpet
+highlighter: rouge
 pygments: true
 baseurl: /recipes
