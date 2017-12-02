@@ -5,24 +5,48 @@
 	{{ content }}
 
   <!--Thanksgiving-->
-	<nav class="grid">
-    <h2> Thanksgiving </h2>
-	    <ul>
-	        {% for p in site.pages %}
-	        {% if p.home %}
-          {% elsif p.category == "thanksgiving" %}
-	        <li>
-	        	<a href="{{ site.baseurl }}{{ p.url }}">
-		        <div class="img-wrapper">
-	        		<img src="{{ p.image }}" />
-	        	</div>
-		        <h2>{{ p.title }}</h2>
-		        </a>
-	        </li>
-	        {% endif %}
-	        {% endfor %}
-	    </ul>
-	</nav>
+  <div class="container">
+  	<nav class="grid">
+      <h2> Thanksgiving </h2>
+  	    <ul>
+  	        {% for p in site.pages %}
+  	        {% if p.home %}
+            {% elsif p.category == "thanksgiving" %}
+  	        <li>
+  	        	<a href="{{ site.baseurl }}{{ p.url }}">
+  		        <div class="img-wrapper">
+  	        		<img src="{{ p.image }}" />
+  	        	</div>
+  		        <h2>{{ p.title }}</h2>
+  		        </a>
+  	        </li>
+  	        {% endif %}
+  	        {% endfor %}
+  	    </ul>
+  	</nav>
+  </div>
+
+<!--Chicken-->
+  <div class="container">
+    <nav class="grid">
+      <h2> Chicken </h2>
+        <ul>
+            {% for p in site.pages %}
+            {% if p.home %}
+            {% elsif p.category == "chicken" %}
+            <li>
+              <a href="{{ site.baseurl }}{{ p.url }}">
+              <div class="img-wrapper">
+                <img src="{{ p.image }}" />
+              </div>
+              <h2>{{ p.title }}</h2>
+              </a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </nav>
+  </div>
 
 <!--unchanged-->
 <br/>
