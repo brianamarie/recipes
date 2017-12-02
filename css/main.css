@@ -472,13 +472,14 @@ main .img-wrapper {
 
 .nav-primary li .img-wrapper {
 	left: 0;
+  max-height: 50px;
 
 
     }
 
 .nav-primary .img-wrapper img {
 	width: 50px;
-	: 50px;
+  max-height: 2.5em;
 	background-color: #eee;
 	opacity: 0.5;
     }
