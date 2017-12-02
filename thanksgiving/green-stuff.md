@@ -4,8 +4,6 @@ size: One Casserole
 author: Allison's Grandma
 category: thanksgiving
 ---
-# Green Stuff
-
 1 (3oz) lime jello
 3-4 oz cream chz (approx 1/2 80z pkg)
 1/3 pkg mini marshmallows

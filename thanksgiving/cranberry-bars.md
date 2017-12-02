@@ -6,8 +6,6 @@ source: http://www.sandralee.com/cream-cheese-and-cranberry-bars/
 image: https://s3.amazonaws.com/sandraleewp/wp-content/uploads/images/0d44b0cef75594e41fa137cb5a67c284-1383321500.jpg
 category: thanksgiving
 ---
-# Cream Cheese and Cranberry Bars
-
 ## Ingredients:
 
 ### Bar Ingredients:
