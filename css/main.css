@@ -109,8 +109,8 @@ h6 {
     }
 
 p, pre, blockquote, ul, ol, dl, figure, figcaption, table, fieldset, details {
-	font-size: 1em; /* 16px */
-	line-height: 1.5; /* 24px */
+	font-size: .75em; /* 16px */
+	line-height: 1em; /* 24px */
 	margin: 0.5em 0; /* 8px 0 */
     }
 
@@ -378,10 +378,10 @@ main .img-wrapper {
     @media (min-width: 40em) {
     .grid li {
     	float: left;
-    	width: 32%;
+    	width: 48%;
         }
 
-    .grid li:nth-child(3n+3) {
+    .grid li:nth-child(2n+2) {
     	margin-right: 0;
         }
 
@@ -409,7 +409,7 @@ main .img-wrapper {
 	padding: 0.5em 0.5em;
 	border-bottom: none;
 	color: #b3002d;
-	height: 150px;
+	height: 100px;
     }
 
 .grid li a:hover h2,
