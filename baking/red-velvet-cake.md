@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Red Velvet Cake
 size: 1 Cake
 author: Vicki's Mom

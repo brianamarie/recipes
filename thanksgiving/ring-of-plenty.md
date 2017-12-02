@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Ring of Plenty
 size: 1 bundt
 author: Diana

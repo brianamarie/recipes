@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Gluten Free Monster Cookies
 size: 12 cookies
 author: Corey Charlé's mom

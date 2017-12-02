@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Cheeseburger Soup
 size: 1 Pot
 author: Vicki

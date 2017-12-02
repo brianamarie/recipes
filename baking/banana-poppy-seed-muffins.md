@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Banana Poppy Seed Muffins
 size: 12 Muffins
 author: Vicki

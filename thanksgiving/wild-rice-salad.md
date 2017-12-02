@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Wild Rice Salad
 size: 1 Salad
 author: Ivy

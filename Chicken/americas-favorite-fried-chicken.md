@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: America's Favorite Fried Chicken
 size: 6 Servings
 author: Vicki Williams

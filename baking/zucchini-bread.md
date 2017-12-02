@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Zucchini Bread
 size: 1 Loaf
 author: Vicki

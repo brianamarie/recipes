@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Tea Biscuits
 size: 12 biscuits
 author: Debbie

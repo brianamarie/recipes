@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Gourmet Potatoes
 size: Some potatoes
 author: Vicki

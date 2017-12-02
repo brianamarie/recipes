@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Gooey Butter Cake
 size: 1 cake
 author: Vicki

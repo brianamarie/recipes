@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Forgotten Cookies
 size: 12 cookies
 author: Vicki

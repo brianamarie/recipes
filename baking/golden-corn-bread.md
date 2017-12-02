@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Golden Corn Bread
 size: 1 Pan
 author: Vicki

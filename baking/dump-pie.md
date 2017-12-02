@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Dump Pie
 size: 1 Fruit Pie
 author: Vicki

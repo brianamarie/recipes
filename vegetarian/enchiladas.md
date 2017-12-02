@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Enchiladas
 size: 1 Dish
 author: Amanda

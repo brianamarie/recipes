@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Heavenly hash
 size: 1 hash
 author: Vicki

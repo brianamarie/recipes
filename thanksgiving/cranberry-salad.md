@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Grandma Gladys' Cranberry Salad
 size: Not sure
 author: Grandma Gladys

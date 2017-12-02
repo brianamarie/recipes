@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Crown Royal Cookies
 size: 12 Cookies
 author: Vicki

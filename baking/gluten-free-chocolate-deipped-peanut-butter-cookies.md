@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Gluten Free Chocolate Dipped Peanut Butter Cookies
 size: 12 Cookies
 author: Vicki

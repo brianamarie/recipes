@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Yams and Oranges
 size: Not sure
 author: Family Recipe

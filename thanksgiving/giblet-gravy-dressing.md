@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Giblet Gravy Dressing
 size: Dressing
 author: Vicki

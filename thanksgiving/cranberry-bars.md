@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Cream Cheese and Cranberry Bars
 size: 12 bars
 author: Sandra Lee
