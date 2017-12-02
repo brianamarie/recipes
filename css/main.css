@@ -378,10 +378,10 @@ main .img-wrapper {
     @media (min-width: 40em) {
     .grid li {
     	float: left;
-    	width: 48%;
+    	width: 32%;
         }
 
-    .grid li:nth-child(2n+2) {
+    .grid li:nth-child(3n+3) {
     	margin-right: 0;
         }
 
