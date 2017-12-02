@@ -2,7 +2,7 @@
 title: Green Stuff
 size: One Casserole
 author: Allison's Grandma
-image: https://brianamarie.github.io/recipes/images/green-stuff.jpg
+image: https://github.com/brianamarie/recipes/blob/master/images/green-stuff.jpg?raw=true
 category: thanksgiving
 ---
 
