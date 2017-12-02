@@ -26,6 +26,28 @@
   	</nav>
   </div>
 
+  <!--Baking-->
+    <div class="container">
+      <nav class="grid">
+        <h2> Baking </h2>
+          <ul>
+              {% for p in site.pages %}
+              {% if p.home %}
+              {% elsif p.category == "baking" %}
+              <li>
+                <a href="{{ site.baseurl }}{{ p.url }}">
+                <div class="img-wrapper">
+                  <img src="{{ p.image }}" />
+                </div>
+                <h2>{{ p.title }}</h2>
+                </a>
+              </li>
+              {% endif %}
+              {% endfor %}
+          </ul>
+      </nav>
+    </div>
+
 <!--Chicken-->
   <div class="container">
     <nav class="grid">
