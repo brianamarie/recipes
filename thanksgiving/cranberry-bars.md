@@ -4,6 +4,7 @@ size: 12 bars
 author: Sandra Lee
 source: http://www.sandralee.com/cream-cheese-and-cranberry-bars/
 image: https://s3.amazonaws.com/sandraleewp/wp-content/uploads/images/0d44b0cef75594e41fa137cb5a67c284-1383321500.jpg
+category: thanksgiving
 ---
 # Cream Cheese and Cranberry Bars
 
@@ -37,7 +38,7 @@ image: https://s3.amazonaws.com/sandraleewp/wp-content/uploads/images/0d44b0cef7
 
 1. Preheat oven to 350°F.
 1. Spray a 9×13-inch baking pan with **nonstick cooking spray**; set aside.
-1. In a medium bowl combine **crushed graham cracker crumbs** and **melted butter**. 
+1. In a medium bowl combine **crushed graham cracker crumbs** and **melted butter**.
 1. Press **graham crackers** and **butter** the bottom of prepared pan. Bake 10 minutes.
 1. Cool completely, about 30 minutes.
 1. Reduce oven temperature to 325°F.

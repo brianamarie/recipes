@@ -2,6 +2,7 @@
 title: Green Stuff
 size: One Casserole
 author: Allison's Grandma
+category: thanksgiving
 ---
 # Green Stuff
 

@@ -3,7 +3,7 @@ title: Yams and Oranges
 size: Not sure
 author: Family Recipe
 source: Family Recipe
-img: TBA
+category: thanksgiving
 ---
 # Cranberry Salad
 
