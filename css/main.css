@@ -263,7 +263,6 @@ nav ul {
 		background: transparent !important;
 		color: #000 !important;
 		text-shadow: none !important;
-		box-shadow: none;
 	    }
 
 	p, h1, h2, h3 {
@@ -372,16 +371,15 @@ main .img-wrapper {
 	margin: 0 2% 1.5em 0;
 	background-color: #fff;
 	overflow: hidden;
-	box-shadow: 0px 0px 2px rgba(0,0,0,0.1);
     }
 
     @media (min-width: 40em) {
     .grid li {
     	float: left;
-    	width: 48%;
+    	width: 32%;
         }
 
-    .grid li:nth-child(2n+2) {
+    .grid li:nth-child(3n + 2) {
     	margin-right: 0;
         }
 
@@ -409,9 +407,13 @@ main .img-wrapper {
 	padding: 0.5em 0.5em;
 	border-bottom: none;
 	color: #b3002d;
-	height: 340px;
+	height: 240px;
   overflow: hidden;
-    }
+  background-image:
+  linear-gradient(180deg, white 3rem, #F0A4A4 calc(3rem), #F0A4A4 calc(3rem + 2px), transparent 1px),
+  repeating-linear-gradient(0deg, transparent, transparent 1.5rem, #DDD 1px, #DDD calc(1.5rem + 1px));
+  box-shadow: 1px 1px 3px rgba(0,0,0,.25);
+}
 
 .grid li a:hover h2,
 .grid li a:focus h2,
@@ -432,7 +434,6 @@ main .img-wrapper {
 	margin: 0 0 0 0;
 	background-color: #fff;
 	overflow: hidden;
-	box-shadow: 0px 0px 2px rgba(0,0,0,0.1);
     }
 
     @media (min-width: 40em) {
