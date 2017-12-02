@@ -19,7 +19,7 @@
   	        	</div>
   		        <h2>{{ p.title }}</h2>
               <br><br><br><br><br>
-              <p>{{p.content}}</p>
+              <p>{{p.content | truncatewords: 50 }}</p>
   		        </a>
   	        </li>
   	        {% endif %}
