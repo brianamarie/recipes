@@ -371,6 +371,11 @@ main .img-wrapper {
 	margin: 0 2% 1.5em 0;
 	background-color: #fff;
 	overflow: hidden;
+  background-image:
+  linear-gradient(180deg, white 3rem, #F0A4A4 calc(3rem), #F0A4A4 calc(3rem + 2px), transparent 1px),
+  repeating-linear-gradient(0deg, transparent, transparent 1.5rem, #DDD 1px, #DDD calc(1.5rem + 1px));
+  box-shadow: 5px 5px 2px #888888;
+
     }
 
     @media (min-width: 40em) {
@@ -384,6 +389,10 @@ main .img-wrapper {
         }
 
     }
+
+.grid li:hover {
+  box-shadow: 5px 5px 2px #cecece;
+}
 
 .grid li h2 {
 	margin-left: 100px;
@@ -399,7 +408,6 @@ main .img-wrapper {
 .grid li .img-wrapper:before {
 	border: solid 38px;
 	border-color: transparent transparent #b3002d #b3002d;
-	box-shadow: 1px 1px 1px rgba(0,0,0,0.35);
     }
 
 .grid li a {
@@ -407,12 +415,8 @@ main .img-wrapper {
 	padding: 0.5em 0.5em;
 	border-bottom: none;
 	color: #b3002d;
-	height: 240px;
+	height: 220px;
   overflow: hidden;
-  background-image:
-  linear-gradient(180deg, white 3rem, #F0A4A4 calc(3rem), #F0A4A4 calc(3rem + 2px), transparent 1px),
-  repeating-linear-gradient(0deg, transparent, transparent 1.5rem, #DDD 1px, #DDD calc(1.5rem + 1px));
-  box-shadow: 1px 1px 3px rgba(0,0,0,.25);
 }
 
 .grid li a:hover h2,
