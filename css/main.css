@@ -410,6 +410,7 @@ main .img-wrapper {
 	border-bottom: none;
 	color: #b3002d;
 	height: 340px;
+  overflow: hidden;
     }
 
 .grid li a:hover h2,

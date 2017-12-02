@@ -6,8 +6,6 @@ source: http://allrecipes.com/recipe/6740/tea-biscuits/
 image: https://brianamarie.github.io/recipes/images/biscuits.jpg
 category: baking
 ---
-![](https://brianamarie.github.io/recipes/images/biscuits.jpg)
-
 ## Ingredients:
 - 2 cups (16 oz) all-purpose flour
 - 4 teaspoons baking powder
@@ -35,3 +33,5 @@ category: baking
 1. Move dough to well floured cutting board. Knead 8 to 10 times, and then roll out to a thickness of at least 1/2 inch. Be liberal with flour.
 1. Cut into rounds with a cookie or biscuit cutter. Place on cookie sheet, brush with egg mixture, and allow to rest for a few minutes.
 1. Bake for 8 to 15 minutes, until slightly golden. Serve warm.
+
+![](https://brianamarie.github.io/recipes/images/biscuits.jpg)

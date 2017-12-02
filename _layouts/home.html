@@ -18,9 +18,10 @@
   	        		<img src="{{ p.image }}" />
   	        	</div>
   		        <h2>{{ p.title }}</h2>
-              <br><br><br><br><br>
+              <br><br><br>
               <p>{{p.content | markdownify | truncatewords: 50 }}</p>
-  		        </a>
+              </ul>
+              </a>
   	        </li>
   	        {% endif %}
   	        {% endfor %}
@@ -34,19 +35,20 @@
         <h2> Baking </h2>
           <ul>
               {% for p in site.pages %}
-              {% if p.home %}
-              {% elsif p.category == "baking" %}
-              <li>
-                <a href="{{ site.baseurl }}{{ p.url }}">
-                <div class="img-wrapper">
-                  <img src="{{ p.image }}" />
-                </div>
-                <h2>{{ p.title }}</h2>
-                <br><br><br><br><br>
-                <p>{{p.content}}</p>
-                </a>
-              </li>
-              {% endif %}
+                {% if p.home %}
+                {% elsif p.category == "baking" %}
+                <li>
+                  <a href="{{ site.baseurl }}{{ p.url }}">
+                  <div class="img-wrapper">
+                    <img src="{{ p.image }}" />
+                  </div>
+                  <h2>{{ p.title }}</h2>
+                  <br><br><br>
+                  <p>{{p.content | markdownify | truncatewords: 50 }}</p>
+                  </ul>
+                  </a>
+                </li>
+                {% endif %}
               {% endfor %}
           </ul>
       </nav>
@@ -66,8 +68,9 @@
                 <img src="{{ p.image }}" />
               </div>
               <h2>{{ p.title }}</h2>
-              <br><br><br><br><br>
-              <p>{{p.content}}</p>
+              <br><br><br>
+              <p>{{p.content | markdownify | truncatewords: 50 }}</p>
+              </ul>
               </a>
             </li>
             {% endif %}
@@ -90,8 +93,9 @@
                 <img src="{{ p.image }}" />
               </div>
               <h2>{{ p.title }}</h2>
-              <br><br><br><br><br>
-              <p>{{p.content}}</p>
+              <br><br><br>
+              <p>{{p.content | markdownify | truncatewords: 50 }}</p>
+              </ul>
               </a>
             </li>
             {% endif %}
@@ -114,10 +118,14 @@
                 <img src="{{ p.image }}" />
               </div>
               <h2>{{ p.title }}</h2>
-              <br><br><br><br><br>
+              <br><br><br>
               <p>{{p.content}}</p>
+              </ul>
               </a>
             </li>
+            {% endif %}
+            {% if p.content %}
+              </li>
             {% endif %}
             {% endfor %}
         </ul>
