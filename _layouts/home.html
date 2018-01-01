@@ -29,6 +29,31 @@
   	</nav>
   </div>
 
+	<!--New Years-->
+    <div class="container">
+      <nav class="grid">
+        <h1 class="title-site"> New Years </h1>
+          <ul>
+              {% for p in site.pages %}
+                {% if p.home %}
+                {% elsif p.category == "new-years" %}
+                <li>
+                  <a href="{{ site.baseurl }}{{ p.url }}">
+                  <div class="img-wrapper">
+                    <img src="{{ p.image }}" />
+                  </div>
+                  <h2>{{ p.title }}</h2>
+                  <br><br><br>
+                  <p>{{p.content | markdownify | truncatewords: 50 }}</p>
+                  </ul>
+                  </a>
+                </li>
+                {% endif %}
+              {% endfor %}
+          </ul>
+      </nav>
+    </div>
+
   <!--Baking-->
     <div class="container">
       <nav class="grid">

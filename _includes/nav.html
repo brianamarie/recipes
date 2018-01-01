@@ -22,6 +22,23 @@
           {% endif %}
           {% endfor %}
       </ul>
+      <!--New Years-->
+          <h4 class="title-site"> New Years </h4>
+            <ul>
+                {% for p in site.pages %}
+                {% if p.home %}
+                {% elsif p.category == "new-years" %}
+                <li>
+                  	<a {% if p.url == page.url %}class="active"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
+                      <div class="img-wrapper">
+                  		<img src="{{ p.image }}" />
+                  	</div>
+                      {{ p.title }}
+                      </a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 <!--Baking-->
     <h4 class="title-site"> Baking </h4>
       <ul>
