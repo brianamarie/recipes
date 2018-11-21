@@ -5,8 +5,6 @@ size: about 4 cups
 author: Ivy & Briana Swift
 category: thanksgiving
 ---
-# Vegetarian Mushroom Gravy
-
 ## Ingredients
 - 2 tablespoons small dried porcini pieces
 - 5 tablespoon unsalted butter
