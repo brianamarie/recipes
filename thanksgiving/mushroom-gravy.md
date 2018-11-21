@@ -16,12 +16,12 @@ category: thanksgiving
 - 4 cups chicken stock or low-sodium broth
 
 ## Instructions
-- Steep dried mushrooms in boiling water until rehydrated, and remove mushrooms from liquid. Mix in broth powder. Make mixture up to 4 cups.
-- Heat olive oil in pan over medium high heat. Sauté mushrooms for about 15 minutes until done. Salt them when adding to pan.
-- Move mushrooms to food processor and make them as smooth as you want.
-- In pan, make a roux with 1 tbsp butter and 1/4 cup of flour until lightly brown.
-- Add mushrooms back to pan, along with the remaining butter.
-- Add broth. Whisk until thickened. Add salt and pepper to taste.
-- Cook for about 5 minutes more.
+1. Steep dried mushrooms in boiling water until rehydrated, and remove mushrooms from liquid. Mix in broth powder. Make mixture up to 4 cups.
+1. Heat olive oil in pan over medium high heat. Sauté mushrooms for about 15 minutes until done. Salt them when adding to pan.
+1. Move mushrooms to food processor and make them as smooth as you want.
+1. In pan, make a roux with 1 tbsp butter and 1/4 cup of flour until lightly brown.
+1. Add mushrooms back to pan, along with the remaining butter.
+1. Add broth. Whisk until thickened. Add salt and pepper to taste.
+1. Cook for about 5 minutes more.
 
 #### Briana & Ivy, Thanksgiving Tuesday Nov 20 2018
