@@ -37,12 +37,13 @@ category: baking
 - medium bowl
 - large bowl
 - egg beaters/mixer
+- whisk
 
 ## Directions:
 
 ### Cake
 1. Preheat oven to 350F (176C) degrees.
-1. Spray a **9-inch springform or baking pan** (round or square) generously with **nonstick spray**. Set aside.
+1. Spray a **9-inch springform or baking pan** (round or square) generously with **nonstick spray**. Line with **parchment paper**, and spray again. Set aside.
 1. In a **medium bowl**, mix together **flour**, **baking powder**, **baking soda**, and **salt**. Set aside.
 1. In a **large microwave-safe bowl**, melt **butter** in the microwave.
 1. Whisk **white sugar** and **brown sugar** vigorously into the butter bowl, getting out any brown sugar lumps. The mixture will be gritty.
@@ -51,6 +52,7 @@ category: baking
 1. Slowly stir in **sprinkles**, but _do not overmix because the sprinkles will bleed their color_.
 1. Pour/spoon batter into prepared cake pan.
 1. Bake it for 20 minutes, then cover loosely with **aluminum foil** (loosely to avoid the top from sticking to the foil).
+  - _If using two 9x9 pans, bake time will be closer to 20 minutes._
 1. Continue baking for 13-17 more minutes or until a toothpick inserted in the center comes out clean.
 1. Allow to cool.
 
