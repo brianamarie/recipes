@@ -40,5 +40,6 @@ category: baking
 1. Pour over baked, cooled crust.
 1. Bake at 350°F for 25 minutes.
 1. When removing from oven, sprinkle with powdered sugar. 
+  - Fancy tip: use stencils or a doily with the powdered sugar to add an interesting design.
 
 ![](https://img.sndimg.com/food/image/upload/w_749,h_421,c_fill,fl_progressive,q_80/v1/img/recipes/99/89/6Y9xGi7TvaZpH1Y683gD_LB%207%20-%20final_4.png)
