@@ -1,7 +1,7 @@
 Plum Duff
 (Recipe started with Gladys Alley Hall)
 
-2 cups cut-up pitted prunes (I buy dried prunes, add water to cover and bring to a simmer and cool (Drain water). Food process to mix up to smooth texture)
+2 cups cut-up pitted prunes (Ivy buys dried prunes, add water to cover and bring to a simmer and cool (Drain water). Food process to mix up to smooth texture)
 
 Beat 2 eggs
 
