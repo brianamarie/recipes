@@ -2,10 +2,10 @@
 layout: recipe
 title: Plum Duff
 size: The amount that it makes
-recipe-attribution-link: Gladys Alley Hall (Ivy's father (William Hall)'s sister)
+recipe-attribution: Gladys Alley Hall (Ivy's father (William Hall)'s sister)
 image: https://user-images.githubusercontent.com/9906718/207571632-7a3a712a-e2d6-461a-afe4-0cdae2b9cfca.png?raw=true
 category: christmas
-photo-attribution-link: Ivy
+photo-attribution: Ivy
 
 ---
 
