@@ -5,7 +5,7 @@ size: The amount that it makes
 recipe-attribution: Gladys Alley Hall (Ivy's father (William Hall)'s sister)
 image: https://user-images.githubusercontent.com/9906718/207571632-7a3a712a-e2d6-461a-afe4-0cdae2b9cfca.png?raw=true
 category: christmas
-photo-attribution: Ivy
+image-attribution: Ivy
 
 ---
 
